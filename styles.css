@@ -1,0 +1,22 @@
+
+.recipe {
+    background-color: rgb(207, 202, 202);
+    font-size: 26px;
+    font-weight: 700;
+    text-align: center;
+}
+
+h1,
+.desctitle{
+    text-align: center;
+}
+
+.description {
+background-color: aliceblue;
+text-align: center;
+}
+
+div {
+    text-align: center;
+}
+}
